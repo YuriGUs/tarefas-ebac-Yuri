@@ -1,0 +1,28 @@
+algoritmo "HoraDeAcordar"
+var
+   horaAcordar : inteiro
+   estaDeOlhosAbertos, estaVestindoChinelo : logico
+inicio
+   // Definir a hora de acordar
+   escreva("Digite a hora que deseja acordar: ")
+   leia(horaAcordar)
+   
+   // Verificar se é hora de acordar
+   se horaAtual() >= horaAcordar entao
+      escreva("Hora de acordar!")
+      
+      // Abrir os olhos
+      estaDeOlhosAbertos := verdadeiro
+      escreva("Você abriu os olhos.")
+      
+      // Colocar os chinelos
+      estaVestindoChinelo := verdadeiro
+      escreva("Você vestiu os chinelos.")
+      
+      // Sair da cama
+      escreva("Você saiu da cama.")
+      
+   senao
+      escreva("Ainda pode dormir mais um pouco.")
+   fimse
+fimalgoritmo
