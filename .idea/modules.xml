@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mod9/conversaoTipos/conversaoTipos.iml" filepath="$PROJECT_DIR$/mod9/conversaoTipos/conversaoTipos.iml" />
       <module fileurl="file://$PROJECT_DIR$/mod5/mod5.iml" filepath="$PROJECT_DIR$/mod5/mod5.iml" />
       <module fileurl="file://$PROJECT_DIR$/mod7/mod7.iml" filepath="$PROJECT_DIR$/mod7/mod7.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tarefas-ebac-Yuri.iml" filepath="$PROJECT_DIR$/.idea/tarefas-ebac-Yuri.iml" />
