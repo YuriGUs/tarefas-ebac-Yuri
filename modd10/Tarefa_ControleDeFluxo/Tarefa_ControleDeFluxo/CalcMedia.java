@@ -1,4 +1,4 @@
-package tarefa_controle_de_fluxo;
+package Tarefa_ControleDeFluxo;
 
 import java.util.Scanner;
 
