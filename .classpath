@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="mod9/conversaoTipos/src/|mod5/src/|Projeto1/src/|testes/PrimeirosTestesComJunit/src/|mod11/Tarefa_Colecoes/|mod8/tarefaCalculoMedia/|mod13/tarefa/|padroesDeProjeto1/src/|mod18/annotations/tarefa/|modd10/Tarefa_ControleDeFluxo/|mod17/generics/tarefa/|mod7/ExemplosMod7/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="mod11/Tarefa_Colecoes"/>
+	<classpathentry kind="src" path="mod13/tarefa"/>
+	<classpathentry kind="src" path="mod17/generics/tarefa"/>
+	<classpathentry kind="src" path="mod18/annotations/tarefa"/>
+	<classpathentry kind="src" path="mod5/src"/>
+	<classpathentry kind="src" path="mod7/ExemplosMod7/src"/>
+	<classpathentry kind="src" path="mod8/tarefaCalculoMedia"/>
+	<classpathentry kind="src" path="mod9/conversaoTipos/src"/>
+	<classpathentry kind="src" path="modd10/Tarefa_ControleDeFluxo"/>
+	<classpathentry kind="src" path="padroesDeProjeto1/src"/>
+	<classpathentry kind="src" path="Projeto1/src"/>
+	<classpathentry kind="output" path="mod7/ExemplosMod7/out/production/ExemplosMod7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/junit-jupiter-api-5.8.1.jar"/>
+  <classpathentry kind="lib" path="lib/junit-jupiter-engine-5.8.1.jar"/>
+  <classpathentry kind="lib" path="lib/hamcrest-2.2.jar"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
